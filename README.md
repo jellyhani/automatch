@@ -1,2 +1,2 @@
-# automatch
-롤 오토매치 테스트
+# automatching
+롤 오토매칭 테스트
